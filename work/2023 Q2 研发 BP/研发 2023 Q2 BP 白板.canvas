@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"BP 要求","id":"35dc37096bdd2387","x":-420,"y":-136,"width":110,"height":55},
+		{"type":"file","file":"附件/报告对象.png","id":"0fd3e47ae462143c","x":-120,"y":-260,"width":397,"height":59},
+		{"type":"file","file":"附件/上次 BP 遗留问题.png","id":"6de2a7fbfeee5a1a","x":-123,"y":200,"width":400,"height":298},
+		{"type":"text","text":"BP 编写","id":"baddb8e0692d52c3","x":-820,"y":260,"width":250,"height":60},
+		{"type":"file","file":"附件/BP 大纲参考.png","id":"46125179e26be8f4","x":-80,"y":-136,"width":400,"height":287}
+	],
+	"edges":[
+		{"id":"45916e454b98f90a","fromNode":"35dc37096bdd2387","fromSide":"right","toNode":"0fd3e47ae462143c","toSide":"left"},
+		{"id":"6b8ee20b407c3f44","fromNode":"35dc37096bdd2387","fromSide":"right","toNode":"46125179e26be8f4","toSide":"left"},
+		{"id":"aea260d1698d8d87","fromNode":"baddb8e0692d52c3","fromSide":"right","toNode":"35dc37096bdd2387","toSide":"left"},
+		{"id":"1532b54c06c17ae5","fromNode":"35dc37096bdd2387","fromSide":"right","toNode":"6de2a7fbfeee5a1a","toSide":"left"}
+	]
+}

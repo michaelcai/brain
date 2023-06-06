@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "f5bfd89fce49c0b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce0e1c046b8684b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0dcbd861855cfd7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "work/2023 Q2 研发 BP/研发 2023 Q2 BP 白板.canvas",
+                "viewState": {
+                  "x": -158.17683510672305,
+                  "y": 70.26373399945682,
+                  "zoom": 0.8333333333333334
+                }
+              }
+            }
+          },
+          {
+            "id": "68ab23269aee2e4e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9da4c6f66537bff4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7e5a3616eb4bf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0f2f7fcb9850307",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22ddfa62c31ca498",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e52e94588cf2080",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a35feb12ddc18b37",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c97e892e1eb0ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71280ea316e3464e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19a65befb91d6a4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "附件/BP 大纲参考.png"
+              }
+            }
+          },
+          {
+            "id": "ce7ebacb06f496ef",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "811d7dee2dc247e0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c827d7c5d0f0eddd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "附件/BP 大纲参考.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "415485cedb9da6e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "附件/BP 大纲参考.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "d0dcbd861855cfd7",
+  "lastOpenFiles": [
+    "work/2023 Q2 研发 BP/研发 2023 Q2 BP 白板.canvas",
+    "work/2023 Q2 研发 BP/核心产品开发进展.md",
+    "notes/2023-06-06.md",
+    "tasks/2023-06 week2.md",
+    "work/2023 Q2 研发 BP/2023 Q2 BP.md",
+    "附件/BP 大纲参考.png",
+    "work/2023 Q2 研发 BP/量化路线.md",
+    "附件/报告对象.png",
+    "附件/上次 BP 遗留问题.png",
+    "附件",
+    "study/读后感",
+    "study",
+    "未命名.canvas",
+    "2023-06-06.md",
+    "Home.md",
+    "work/2023 Q2 研发 BP",
+    "work",
+    "notes",
+    "Kanban.md",
+    "tasks",
+    "README.md"
+  ]
+}
