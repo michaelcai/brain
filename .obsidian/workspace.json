@@ -11,11 +11,14 @@
             "id": "da6e88b1f530d3a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "work/2023 Q2 研发 BP/Filecoin 业务.md",
-                "mode": "source",
-                "source": false
+                "file": "work/2023 Q2 研发 BP/研发 2023 Q2 BP 白板.canvas",
+                "viewState": {
+                  "x": -55.055407343242734,
+                  "y": 1.622097753644482,
+                  "zoom": 1
+                }
               }
             }
           }
@@ -96,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/2023 Q2 研发 BP/Filecoin 业务.md"
+                "file": "附件/BP 大纲参考.png"
               }
             }
           },
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/2023 Q2 研发 BP/Filecoin 业务.md",
+                "file": "附件/BP 大纲参考.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/2023 Q2 研发 BP/Filecoin 业务.md",
+                "file": "附件/BP 大纲参考.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,13 +169,13 @@
   },
   "active": "da6e88b1f530d3a5",
   "lastOpenFiles": [
-    "work/2023 Q2 研发 BP/量化业务.md",
-    "work/2023 Q2 研发 BP/研发 2023 Q2 BP 白板.canvas",
-    "work/2023 Q2 研发 BP/Filecoin 业务.md",
-    "work/2023 Q2 研发 BP/量化路线.md",
     "work/2023 Q2 研发 BP/2023 Q2 BP.md",
     "work/2023 Q2 研发 BP/核心产品开发进展.md",
     "work/2023 Q2 研发 BP/新业务.md",
+    "work/2023 Q2 研发 BP/Filecoin 业务.md",
+    "work/2023 Q2 研发 BP/量化业务.md",
+    "work/2023 Q2 研发 BP/研发 2023 Q2 BP 白板.canvas",
+    "work/2023 Q2 研发 BP/量化路线.md",
     "tasks/2023-06 week2.md",
     "notes/2023-06-06.md",
     "附件/BP 大纲参考.png",
